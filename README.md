@@ -2,9 +2,6 @@
 
 This repository contains a set of Quickstarts for the Quarkus framework. Each of them have a Getting started guide.
 
-## Hello World
-Words words words words words
-
 ## Requirements
 
 To compile and run these demos you will need:
