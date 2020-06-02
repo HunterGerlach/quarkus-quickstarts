@@ -1,8 +1,6 @@
 # QuickStarts for Getting Started Guides
 
 This repository contains a set of Quickstarts for the Quarkus framework. Each of them have a Getting started guide.
-## World, Hello
-Second instance
 
 ## Requirements
 
